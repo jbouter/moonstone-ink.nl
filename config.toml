@@ -1,0 +1,31 @@
+baseURL = "https://moonstone-ink.nl/"
+languageCode = "en-us"
+title = "Moonstone Ink."
+theme = "creative-portfolio"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Moonstone Ink tattoo art"
+  copyright = "&copy;2021 Moonstone Ink"
+  sidebarAbout = [
+    "I am a beginning tattoo artist, quickly growing and eager to learn!",
+    "From The Netherlands, currently based in Groningen",
+  ]
+  email = "info@moonstone-ink.nl"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [params.social]
+  facebook      = "https://facebook.com/esiekmans"
+  email         = "info@moonstone-ink.nl"
+  instagram     = "https://www.instagram.com/moonstone.ink.by.emmely"
