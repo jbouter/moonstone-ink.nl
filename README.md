@@ -1,7 +1,5 @@
 # moonstone-ink.nl
 
-Personal site for [Roald Nefs](https://github.com/roaldnefs), using the very fast and flexible static site generator called Hugo.
-
 Website for [Moonstone Ink](https://moonstone-ink.nl), using the very fast and flexible static site generator called Hugo
 
 ## Getting Started
