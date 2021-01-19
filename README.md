@@ -7,6 +7,7 @@ Website for [Moonstone Ink](https://moonstone-ink.nl), using the very fast and f
 All code is licensed under GPLv3.
 
 All photographs and artworks are licensed under the [Creative Commons attribution NonCommercial (CC BY-NC)](https://creativecommons.org/licenses/by-nc/4.0/):
+
 *This license lets others remix, adapt, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.*
 
 ## Getting Started
