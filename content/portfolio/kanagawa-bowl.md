@@ -7,3 +7,5 @@ weight = 0
 +++
 
 A favourite painting and favourite dish, mashed together.
+
+![image](/img/tattoos/kanagawa-bowl.jpg)

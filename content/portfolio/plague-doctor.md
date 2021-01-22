@@ -7,3 +7,5 @@ weight = 0
 +++
 
 Fitting for 2020, no?
+
+![image](/img/tattoos/plague-doctor.jpg)

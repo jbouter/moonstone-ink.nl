@@ -7,3 +7,5 @@ weight = 0
 +++
 
 This barber will never forget his scissors again!
+
+![image](/img/tattoos/scissors.jpg)

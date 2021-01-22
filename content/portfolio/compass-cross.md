@@ -7,3 +7,5 @@ weight = 0
 +++
 
 A Compass Cross calf tattoo
+
+![image](/img/tattoos/compass-cross.jpg)
