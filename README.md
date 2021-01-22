@@ -44,6 +44,8 @@ git checkout main
 
 ### Working with this setup
 
+There's no need to set this up manually, as there's a GitHub workflow configured.
+
 Check out the `gh-pages` branch into the `public` folder using git's [worktree feature](https://git-scm.com/docs/git-worktree). Essentially, the worktree allows you to have multiple branches on the same local repoistory to be checked out in different directories:
 
 ```bash
