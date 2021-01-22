@@ -1,7 +1,12 @@
+---
+
 name: Publish
 
 on:
   push:
+    branches:
+      - main
+  merge:
     branches:
       - main
 
