@@ -25,5 +25,4 @@ jobs:
           rm /tmp/hugo.deb
 
       - name: Test Build
-        env:
         run: hugo
