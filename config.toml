@@ -1,6 +1,6 @@
-baseURL = "https://moonstone-ink.nl/"
+baseURL = "https://www.moonstone-ink.nl/"
 languageCode = "en-us"
-title = "Moonstone Ink."
+title = "Moonstone Ink"
 theme = "creative-portfolio"
 
 [params]
