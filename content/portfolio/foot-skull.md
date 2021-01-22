@@ -7,3 +7,5 @@ weight = 0
 +++
 
 Getting your foot tattooed won't go by unnoticed, but the result was definitely worth the pain!
+
+![image](/img/tattoos/foot-skull.jpg)
