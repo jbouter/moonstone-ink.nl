@@ -11,7 +11,8 @@ theme = "creative-portfolio"
   copyright = "&copy;2021 Moonstone Ink"
   sidebarAbout = [
     "I am a beginning tattoo artist, quickly growing and eager to learn!",
-    "From The Netherlands, currently based in Groningen",
+    "From The Netherlands, currently based in Groningen.",
+    "This page contains a small set of my portfolio, for more work please see my instagram",
   ]
   email = "info@moonstone-ink.nl"
 
