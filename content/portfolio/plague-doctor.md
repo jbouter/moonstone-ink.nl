@@ -1,5 +1,5 @@
 +++
-showonlyimage = false
+showonlyimage = true
 draft = false
 image = "img/tattoos/plague-doctor.jpg"
 title = "Plague Doctor"
