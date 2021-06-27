@@ -10,10 +10,11 @@ theme = "creative-portfolio"
   description = "Moonstone Ink tattoo art"
   copyright = "&copy;2021 Moonstone Ink"
   sidebarAbout = [
-    "</p><img src='/img/logo/moonstone_logo.png' width='80%' height='80%'><p class=sidebar-p>",
-    "I am a beginning tattoo artist, quickly growing and eager to learn!",
-    "From The Netherlands, currently based in Groningen.",
-    "This page contains a small set of my portfolio, for more work please see my instagram",
+    "</p><a href='/portfolio/'><img src='/img/logo/moonstone_logo.png' width='80%' height='80%'></a><p class=sidebar-p>",
+    "My name is Emmely. I've been tattooing since June 2020",
+    "I'm tattooing part-time, but I'm working very hard to achieve my dream of becoming a full-time tattoo artist. I chose the name Moonstone Ink for my business for a special reason. I wear moonstones in most of my jewelry. Moonstones are connected to feminine energy, stimulate creativity, and help you through personal changes. I thought it was a perfect match for this new chapter of my life.",
+    "This page contains a small set of my portfolio, for more work please see my <a href='https://www.instagram.com/moonstone.ink.tattoos'>instagram</a>.",
+    "If you would like to book an appointment, please send me a DM on instagram or contact me through email (see the icons below)."
   ]
   email = "info@moonstone-ink.nl"
 
@@ -24,10 +25,14 @@ theme = "creative-portfolio"
   home = true
 
   [[params.navlinks]]
+  name = "Available Designs"
+  url = "art/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
   [params.social]
-  facebook      = "https://facebook.com/esiekmans"
+  facebook      = "https://www.facebook.com/Moonstone-Ink-104925165106680/"
   email         = "info@moonstone-ink.nl"
-  instagram     = "https://www.instagram.com/moonstone.ink.by.emmely"
+  instagram     = "https://www.instagram.com/moonstone.ink.tattoos"

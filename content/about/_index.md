@@ -1,6 +1,6 @@
 +++
 date = "2020-01-19"
-title = "about me"
+title = "About me"
 +++
 
 At the start of the first Corona pandemic lockdown in The Netherlands, I wasn't allowed to go to work and was tasked to do courses at home. Some of those courses were work related (Visual Merchandising), but others I could freely pick.
