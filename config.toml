@@ -2,7 +2,6 @@ baseURL = "https://www.moonstone-ink.nl/"
 languageCode = "en-us"
 title = "Moonstone Ink"
 theme = "creative-portfolio"
-googleAnalytics = "UA-214949813-1"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
