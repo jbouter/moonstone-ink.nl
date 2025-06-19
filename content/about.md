@@ -5,7 +5,7 @@ menu:
     weight: 90
 ---
 
-![A photo of me tattooing](/img/photo/IMG_5965.JPEG)
+![A photo of me tattooing](/images/photo/IMG_5965.JPEG)
 
 Hey there! 👋
 
@@ -16,3 +16,9 @@ I find it difficult to exactly describe my tattoo style, but the galleries I've 
 The galleries on this website are, however, just a small selection of my work. If you're curious about the rest, feel free to check [my instagram](https://www.instagram.com/moonstone.ink.tattoos)
 
 Want to get in touch? Use the buttons at the bottom of the page!
+
+The address of Moonstone Ink:
+
+Werumeus Buningstraat 20
+9721 JA
+Groningen
