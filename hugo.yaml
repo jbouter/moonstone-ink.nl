@@ -8,15 +8,11 @@ timeout: 120s
 title: Moonstone Ink
 theme: ["github.com/nicokaiser/hugo-theme-gallery"]
 
-menus:
-  main:
-    - name: Home
-      pageref: /
+menu:
+  footer:
+    - name: Werumeus Buningstraat 20 in Groningen
+      url: 'https://maps.app.goo.gl/DBCqpLXyHFpvS5vY7'
       weight: 10
-    - name: About Me
-      pageref: /about
-      weight: 20
-
 
 params:
   defaultTheme: light
