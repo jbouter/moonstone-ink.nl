@@ -1,0 +1,31 @@
+copyright: "© Moonstone Ink"
+defaultContentLanguage: en
+disableKinds: ["taxonomy"]
+enableRobotsTXT: true
+languageCode: en
+timeZone: Europe/Amsterdam
+timeout: 120s
+title: Moonstone Ink
+
+params:
+  defaultTheme: light
+  description: A gallery of work by Moonstone Ink
+  title: Moonstone Ink
+  author:
+    name: Emmely Bouter
+  socialIcons:
+    facebook: https://www.facebook.com/Moonstone-Ink-104925165106680
+    instagram: https://www.instagram.com/moonstone.ink.tattoos
+    email: info@moonstone-ink.nl
+
+outputs:
+  home: ["HTML"]
+  page: ["HTML"]
+  section: ["HTML"]
+
+imaging:
+  resampleFilter: CatmullRom
+  exif:
+    disableDate: true
+    disableLatLong: true
+    includeFields: "ImageDescription|Orientation"
