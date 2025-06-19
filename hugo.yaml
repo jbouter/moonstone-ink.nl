@@ -6,6 +6,17 @@ languageCode: en
 timeZone: Europe/Amsterdam
 timeout: 120s
 title: Moonstone Ink
+theme: ["github.com/nicokaiser/hugo-theme-gallery"]
+
+menus:
+  main:
+    - name: Home
+      pageref: /
+      weight: 10
+    - name: About Me
+      pageref: /about
+      weight: 20
+
 
 params:
   defaultTheme: light
@@ -18,14 +29,15 @@ params:
     instagram: https://www.instagram.com/moonstone.ink.tattoos
     email: info@moonstone-ink.nl
 
-outputs:
-  home: ["HTML"]
-  page: ["HTML"]
-  section: ["HTML"]
-
 imaging:
   resampleFilter: CatmullRom
   exif:
     disableDate: true
     disableLatLong: true
     includeFields: "ImageDescription|Orientation"
+
+module:
+  hugoVersion:
+    min: "0.121.2"
+  imports:
+    - path: "github.com/nicokaiser/hugo-theme-gallery/v4"

@@ -1,26 +1,18 @@
 ---
-layout: prose
-rss_ignore: true
 title: About Me
 menu:
   main:
     weight: 90
 ---
 
-At the start of the first Corona pandemic lockdown in The Netherlands, I wasn't allowed to go to work and was tasked to do courses at home. Some of those courses were work related (Visual Merchandising), but others I could freely pick.
-A few of the courses I could pick were related to following your passion, and doing what you like to do. At the beginning of 2020, I had some tattoo equipment at home, and had practiced on fake skin. During one of the many walks with my boyfriend,
-we talked about how I have always had this passion, but never really followed up with it. As it turns out, the lockdown was the best moment to start studying.
+![A photo of me tattooing](/img/photo/IMG_5965.JPEG)
 
-I set out to learn and practice more during the free time I had available, starting with searching for a coach. I asked a very kind tattoo artist I had met on a tattoo convention in our hometown of Groningen just a year before, and against my expectations
-she was thrilled to assist me more. Before I knew it, she had guided me towards putting my first tattoo on actual skin.
+Hey there! 👋
 
-![First tattoo][1]
+I am Emmely Bouter, a tattoo artist from Groningen. I've been a tattoo artist since the beginning of the Corona pandemic.
+I've got my own tattoo studio in the southern part of the city Groningen.
 
-Since that moment, my tattooing has advanced more quickly than I could have ever imagined on that first walk together with my boyfriend. I find myself feeling very honoured with everyone who have trusted me to put art on their bodies.
+I find it difficult to exactly describe my tattoo style, but the galleries I've compiled on this website should give you a pretty good idea.
+The galleries on this website are, however, just a small selection of my work. If you're curious about the rest, feel free to check [my instagram](https://www.instagram.com/moonstone.ink.tattoos)
 
-![At work][2]
-
-Are you as excited about tattoos as I am? Feel free to get in touch! Find my contact information in the left sidebar
-
-[1]: /img/about/first-tattoo-resized.jpg
-[2]: /img/about/at-work.jpg
+Want to get in touch? Use the buttons at the bottom of the page!
