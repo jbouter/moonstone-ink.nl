@@ -20,5 +20,7 @@ Want to get in touch? Use the buttons at the bottom of the page!
 The address of Moonstone Ink:
 
 Werumeus Buningstraat 20
+
 9721 JA
+
 Groningen
