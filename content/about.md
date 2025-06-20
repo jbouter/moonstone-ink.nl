@@ -2,7 +2,7 @@
 title: About Me
 menu:
   main:
-    weight: 90
+    weight: 2
 ---
 
 ![A photo of me tattooing](/images/photo/IMG_5965.JPEG)

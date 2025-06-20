@@ -1,5 +1,5 @@
 ---
-description: Please enjoy this curated collection of galleries
+description: A selection of my favourite subjects
 title: Moonstone Ink
 menus:
   main:

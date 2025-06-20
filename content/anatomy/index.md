@@ -1,9 +1,9 @@
 ---
 title: Anatomy
 description: Anatomy Tattoos
-menus: "main"
 resources:
-  - src: IMG_4010.PNG
+  - src: cover.png
     params:
       cover: true
+      hidden: true
 ---
