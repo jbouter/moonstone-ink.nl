@@ -15,7 +15,7 @@ menu:
       weight: 10
 
 params:
-  defaultTheme: light
+  defaultTheme: auto
   description: A gallery of work by Moonstone Ink in Groningen
   author:
     name: Emmely Bouter
