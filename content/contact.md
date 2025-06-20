@@ -1,5 +1,5 @@
 ---
-title: Contact and appointments
+title: Contact and Appointments
 menu:
   main:
     weight: 3
