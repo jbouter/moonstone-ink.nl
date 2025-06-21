@@ -24,6 +24,10 @@ params:
     instagram: https://www.instagram.com/moonstone.ink.tattoos
     email: info@moonstone-ink.nl
 
+services:
+  googleAnalytics:
+    id: G-1RLJTYX871
+
 imaging:
   resampleFilter: CatmullRom
   exif:
